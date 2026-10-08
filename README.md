@@ -63,8 +63,9 @@ pytest tests/test_saucedemo.py -v --html=reports/reporte.html
 
 ## Estructura
 pre-entrega-automation-testing/
-├── .gitignore          📄
-├── reports/            📁
-├── tests/              📁
-├── utils/              📁
-└── venv/               📁
+.gitignore          📄
+
+reports/            📁
+tests/              📁
+utils/              📁
+venv/               📁
